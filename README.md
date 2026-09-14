@@ -1,7 +1,7 @@
  **Hi, I'm Lena** 👋  
 Researcher, Data Analyst
 🌱 I’m currently learning Data Science
-📍 Spain, from Ukraine 🇺🇦
+📍 Spain, from Ukraine <img src="https://flagcdn.com/24x18/ua.png" alt="Ukraine" width="24" height="18">
 
 ### Tecnologías:
 - Python / R / SQL
