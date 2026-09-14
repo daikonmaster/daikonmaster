@@ -1,7 +1,7 @@
  **Hi, I'm Lena** 👋  
 Researcher, Data Analyst
 🌱 I’m currently learning Data Science
-📍 Spain, from Ukraine :ukraine:
+📍 Spain, from Ukraine 🇺🇦
 
 ### Tecnologías:
 - Python / R / SQL
